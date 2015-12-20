@@ -1,0 +1,1 @@
+﻿module.exports = exports = require('./src/hooman.js');

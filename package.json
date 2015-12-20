@@ -1,0 +1,12 @@
+{
+  "name": "hooman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test-hooman.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
